@@ -106,7 +106,11 @@ Real-time birdcall detection
 # 📌 Author
 
 Astha Jain
+
 Data Science & Python Developer
+
+Direct Access - https://colab.research.google.com/drive/1JosketMNOlLKVByWnHCVTD8j50PT-xyH?usp=sharing
+
 
 ⭐ If you like this project
 
